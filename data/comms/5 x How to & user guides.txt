@@ -1,0 +1,369 @@
+5 x How to / user guides where Comms has provided assistance
+
+Multi-Factor Identification (MFA)
+Whole of Victorian Government Office365 Tenancy (WoVGO365)
+Office 365
+With the adoption of Office365 adding increasing levels of accessibility, collaboration and
+productivity, security controls have become ever more important.
+A key Microsoft O365 security recommendation is that all users authenticate their access by
+using Multi-Factor Identification (MFA).
+What is MFA?
+Multi-Factor Authorisation is a two-step verification process that strengthens cyber security. It
+works by requiring a user to enter two (or more) authentication methods:
+• Something you know (typically a password)
+• Something you have (a trusted device that is not easily duplicated, like a phone)
+• Something you are (biometrics)
+MFA adoption
+Individual users can be assigned one of three Multi-Factor policies: Disabled, Enabled or Enforced.
+DISABLED – MFA is not enabled. The user will not be prompted for MFA registration. Only their
+username and password will be used to log into Office365.
+ENABLE – The user will be prompted for MFA registration. The user can opt-out by ignoring the
+prompt and continue to use Office without MFA (same as DISABLED). Or, if the user completes the
+MFA registration, they will only be prompted for MFA when accessing Office365 externally.
+ENFORCE – The user will be forced to complete the MFA registration. They will not be able to use
+Office365 until MFA registration is completed (from inside or outside of the Cenitex network).
+Once registration has completed, the user will be prompted only when accessing Office365
+externally.
+To discuss enforcing your users to use MFA, please contact your Cenitex
+Account Manager.
+N.B. Overleaf is an example of the user experience when enrolling in MFA.
+pg. 1
+User opens a web browser and goes to:
+https://portal.office.com
+User signs in with their network details.
+User prompted for MFA registration
+User selects their method of contact from the
+3 options below to verify their details
+Mobile Phone
+Landline Phone
+Authenticator Mobile App
+The selected method will then send the user a verification code.
+User enters their code to proceed to using
+Office 365 
+
+
+Recovering Deleted Items from OneDrive sync client and OneDrive online 
+The guide shows OneDrive users how to recover items that have been deleted from the OneDrive sync client or from OneDrive online. OneDrive has both a primary and second-stage recycle bin and this guide provides instructions on how to recover from both locations.  
+
+To access OneDrive online, go to https://portal.office.com. You may be prompted to sign in. Once you have signed in, select the OneDrive tile to access OneDrive online. 
+
+ 
+
+Recovering deleted items from the OneDrive primary recycle bins and from the OneDrive sync folders on the computer 
+
+File/s or folder/s that are deleted from the OneDrive sync folders, are moved to the Recycle bin within Windows Explorer. There are two options available to recover these item/s: 
+
+Open the Recycle bin on the computer, then drag and drop the item/s to any folder. 
+
+(or) 
+
+Right click on the item/s and select Restore which will restore the item/s to the location they were deleted from.  
+
+ 
+
+ 
+
+Figure 1 | How to select items to restore 
+
+ 
+
+Recovering deleted items from OneDrive online 
+
+File/s or folder/s that are deleted from the OneDrive online folders, are moved to the Recycle bin within OneDrive online. To recover these item/s you can either: 
+
+Open the Recycle bin in OneDrive online then select the item/s by selecting the tick next to the item/s. 
+
+(or) 
+
+Right click on the selected item/s and select Restore, or select the Restore tab at the top of the page. 
+
+Once you select Restore the item/s, they will be restored to the Original location specified on the right of the item/s. 
+
+ 
+
+ 
+
+Figure 2 | Restoring in original location 
+
+ 
+
+To move all item/s in recycle bin to the second-stage recycle bin open the OneDrive Recycle bin and select Empty Recycle bin. 
+
+ 
+
+ 
+
+Figure 3 | Empty recycle bin link 
+
+ 
+
+ 
+
+Recovering deleted items from the OneDrive second stage recycle bin 
+
+Can the end user recover permanently deleted items from the OneDrive sync folders? 
+
+No, item/s that are deleted permanently and are not synchronised to the OneDrive online or OneDrive online second-stage recycle bin cannot be restored by the end user. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Recovering deleted items from OneDrive online Second-stage recycle bin 
+
+If file/s or folder/s are deleted from the OneDrive online recycle bin, these item/s are moved to the OneDrive online second-stage recycle bin. 
+
+Item/s can be restored back to their original location, and not into the primary recycle bin. 
+
+To access the second-stage recycle bin, open OneDrive online then expand the OneDrive recycle bin and click on the second-stage recycle bin link at the bottom of the page. 
+
+ 
+
+You have two options to recover these item/s: 
+
+Open the Recycle Bin in OneDrive online and check the tick next to the item/s. 
+
+Then either right click on the selected item/s and select Restore  
+
+(or) 
+
+Click the Restore tab at the top of the page. 
+
+Once you select restore the item/s, they will be restored to the Original location specified on the right of the item/s. 
+
+ 
+
+ 
+
+Figure 4 | Restore 
+
+ 
+
+Note: Do not Empty Recycle Bin in the OneDrive second-stage recycle bin unless necessary as this permanently deletes all the item/s and cannot be recovered by the end user. 
+
+ 
+
+ 
+
+Figure 5 | Empty recycle bin link within the Second-stage recycle bin 
+
+ 
+
+
+
+
+Getting Started …
+GO Connect lets you connect to government apps and services from your work laptop
+anywhere there is internet. GO Connect connects automatically when you’re away from
+the office, and auto-disconnects when no longer needed.
+Forget forgettable PINS and RSA tokens. GO Connect is simplified remote access to
+applications and drives.
+Quick Setup—the first time you should connect from work, on the corporate network
+Note: steps one to four are once-off, unless you have trouble or change your Windows password.
+1. Your Start Menu contains a GO Connect icon. When you click it Internet Explorer will launch the
+website: https://goconnect.webaccess.vic.gov.au.
+Enter your Windows password and click Log On.
+2. Beside Certificate select your Windows username from the resulting dropdown. Note that it may
+appear twice. Make sure you select the one where Issuer reads: Victorian Government Shared
+Services Issuing CA1 (or CA2).
+3. Click OK and you will connect. Depending on your internet speed, it may take a little while.
+Getting Started …
+Pg.2
+4. Reboot. Login to Windows. Find an internet connection outside the corporate network (eg: Wi-Fi
+hotspot or a cafe). When there’s an external internet connection you’ll see this in the bottom right
+corner by the clock:
+5. When you are back in the office GO Connect detects this and shuts down. A disconnection notice
+will appear near the clock.
+6. Please wait for that message before attempting to work.
+If you have any questions, or trouble, check the more detailed notes on the following
+page.
+Getting Started …
+Pg.3
+Is GO Connect active?
+Locate the notifications overflow icon (upward pointing arrow) on the taskbar.
+Find the Padlock icon
+.
+Grey – Disconnected.
+Blue – Connected
+How to Manually Disconnect GO Connect
+You may need to connect and reconnect where internet access is poor. Click the blue padlock in the above
+illustration to open the GO Connect client. Click Logoff.
+Note: GO Connect will not automatically reconnect if a manual logoff occurs unless the device is rebooted or a
+manual login via Internet Explorer occurs.
+(Go to Start Menu > GO Connect if you want to manually login.)
+What if I’m asked if I want to ‘transfer’?
+If you’ve shut down your notebook without logging out, sometimes your session will still be active. Select Transfer.
+If GO Connect still doesn’t connect, please call the IT Service Centre on 1800 020 140.
+
+
+Approval requests are  forwarded to you automatically when a request requires your approval. You will receive an email as well as notification within the Requestit portal.
+Open the Requestit portal by typing ‘Requestit’ into your web browser or click here.
+
+How to approve a request using email
+Approval via email allows you to make a decision on a request without accessing the portal. Review the information provided and then select Approve or Reject.
+Selecting either option will open a security email. This email validates that your identity to ensure the right person approves the request. You don’t need to edit the email. Click Send when this email opens.
+The request has been actioned.
+
+ 
+
+How to find an approval a request in the portal
+Click My Activity from the top navigation bar and select Approvals. 
+You can also use the notification bell on the right hand side to access new and previous approval requests. 
+Click the bell to see all of your notifications drop down.
+Click a notification to open the request or the x delete the notification.
+
+
+
+How to review an approval request
+The activity feed shows the requests you have actioned as an approver. You can Approve, Reject or put a request On Hold from the Activity feed screen or click a request to open more details.
+You can Approve, Reject or place On Hold from the Approval Request screen.
+
+Click Details to view additional information. Click Back to close the More Details view.
+How to ask for more information
+From the activity feed click the speech bubble on the bottom right corner of the request.
+•	Type your comment into the visible comment box.
+•	Click Add comment. 
+•	Click Cancel to close the comment box.
+
+From the Approval Request, click Add Comments and Attachments.
+•	Type your comment into the comment box.
+•	Click Add. 
+•	The comment will be visible to the Requester.
+
+
+
+
+
+
+
+
+
+
+
+Requestit uses online forms to gather the required information for you to request a service or report a fault. They are designed to capture all of the required information, pre populate your details and provide a brief summary of the service.
+Open the Requestit portal by typing ‘Requestit’ into your web browser or click here.
+
+How to navigate the portal
+Type in the first 3 letters of the service you want to request into the Search bar. 
+
+All results will open in a drop-down box. Use your mouse to scroll down or you can sort by Action or Resource.
+Click Browse categories. Click the relevant service, for example External Access. A list of available requests will populate in the right hand side. 
+
+Click the request and the online form will open.
+
+
+
+
+ 
+How to submit a request for yourself
+Click on the form to open it. Answer all of the ‘required’ questions.
+Click Submit Request. Note: Click cancel to close the form.
+
+
+
+
+How to submit a request for someone else
+Click Change after the ‘Request for’ field to request on behalf of someone else.
+
+
+
+Type the name of the person into the search field.
+  Select their name from the drop down menu. This updates the Email and Phone details.
+
+
+Change the best contact number to your own number if you are the primary contact.
+
+
+
+
+How to view your requests
+The Activity feed view shows a history of your service requests and reported faults. Click My Activity from the top banner select Requests.
+
+
+
+
+
+
+Click on a request to open the request.
+Click Request details to view the ‘More Details’ screen. View additional details here, including who submitted the request, who it is for and when it was last updated. Click Back to go to the request details screen.
+Click x to close the request.
+
+
+
+
+
+
+
+
+
+
+How to leave a comment or reply to a comment on your request
+If the approver of your request (for example, your manager) requires some additional information, they may leave a comment.
+
+
+
+
+
+Click Enter your comment here to open the comment box. Type in your reply then click Add Comment.
+
+How to find a ‘lost’ request
+The actvity feed will only show requests that are in progress. To view a completed or cancelled request or a reqest that you cannot see, update the filter. Click the Filter icon on the right hand side to change the default settings.
+
+
+
+A list of status options will drop down. Tick the relevant Status options you would like to view in your Activity feed.
+Requests with the status you have selected will now appear in your Activity feed.
+
+How to see the progress of your activity using the status definitions
+•	Initiated: the request has been sent to the IT Service Centre for fulfilment. 
+•	In Progress: the request is being fulfilled by a technician.  
+•	Pending: the request is on hold. 
+•	Waiting Approval: the request is waiting for approval from your department/agency before it can be sent to the IT Service Centre for fulfilment. 
+•	Completed: the request has been finalised but you have seven days to reopen it (for example if a fault is resolved but occurs again a day later). 
+•	Rejected: the request was not approved by your department/agency. 
+•	Cancelled: the request was cancelled during the process and is no longer being fulfilled. 
+•	Closed: the request/fault cannot be reopened.
+
+
+This user guide will assist you with setting up your RSA token pin so you can access your emails through web mail or work offsite.
+Before you begin you will need to have received an RSA token. A hard token will be a physical key dongle and a soft token will be downloaded onto your smart phone as an app.
+This user guide has 1 topic: RSA Pin set up for the first time
+If you require assistance or experience any problems, contact the IT Service Centre on 1800 020 140.
+1.	RSA PIN set up for first time use
+Step	Action	Image
+1	Open Internet Explorer. 
+Go to https://workplace.vic.gov.au 
+
+Enter your Username, Password and Token number, then click Log On.	 
+
+2	Create a 4-8 character PIN. This can be alphanumeric.
+Click Submit. 
+	 
+
+3	Re-enter the PIN to confirm.
+Click Submit.	 
+
+4	Wait for the token number to change.
+Enter the PIN + Token Code
+
+
+If you fail at any point, repeat from Step 1.
+ 
+
+5	Now that the PIN has been set, when you log in you will need to enter your Username, Password and Token PIN + Token number.
+
+Note: ‘PIN + Token’ is the PIN followed by the 6 numbers displayed on the token. 	 
+
+
+Additional information 
+Your PIN will always remain the same (unless you request a PIN reset), but the 6 numbers on the RSA token change every 60 seconds. If you enter any credentials incorrectly you MUST wait for the next token code. 
+You cannot enter the same token code more than once.
+If you require assistance or experience any problems, contact the IT Service Centre on 1800 020 140.

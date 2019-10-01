@@ -1,0 +1,342 @@
+10 x insITe pages
+Stakeholder Advisory Committee
+The Stakeholder Advisory Committee (SAC) is the key forum to give our customers input into our future direction and services. It is also the forum for Cenitex customer departments to raise issues of concern to the Cenitex Board and management. 
+
+The objective of SAC is to provide a monthly forum for: 
+Representatives from each of our customer departments to collectively discuss generic service provisioning in relation to the Cenitex service catalogue, pricing and service level agreements.
+Resolution of customer related issues which are not dealt with at a management level.
+Customer departments to offer advice to the Cenitex Board regarding customer related matters, including discussions about the feasibility of new services and solutions that will yield benefits for whole of Victorian government.
+SAC consists of the Chief Information Officer (CIO) or equivalent from each of the departments serviced by Cenitex and two Cenitex executives (Chief Executive and Director Customer Engagement). 
+
+For more information about SAC, please contact your departmental CIO or equivalent or alternatively, contact your Cenitex Account Manager.
+ 	
+Customer Business Unit
+The Customer Business Unit (CBU) gives our customers regular, face-to-face contact with their Cenitex Account Manager and Service Delivery Manager.
+
+Customer representatives have the opportunity to discuss Cenitex's operational performance, projects, planning and any other items of interest. Cenitex representatives receive feedback around issues that may require additional attention, allowing Cenitex to improve its delivery of services.
+
+CBU has responsibility for:
+Reporting trends which have been identified through monthly operational reporting.
+Making recommendations for improvements and tracking these improvements.
+Responding to queries raised as a result of regular reporting.
+Reviewing major incidents and systemic problems.
+Closing major incident reports.
+Reporting on issues affecting service delivery (e.g. resourcing issues)
+Prioritising agreed actions to address and improve any identified service delivery issues.
+To support our customers, subject matter experts (SMEs) can attend these meetings on request, providing an in-depth explanation of technical solutions. 
+
+For more information on the CBU, please contact your Chief Information Officer or equivalent or the Cenitex Service Delivery Manager assigned to your department.
+
+Change Advisory Board
+The Change Advisory Board (CAB) is part of the overall governance framework for operational changes to the IT environment. 
+
+It is a forum designed to bring together people who can advise Change Management in the assessment, prioritisation and scheduling of changes.
+
+The CAB meets weekly on Wednesdays at 11:00 AM to focus on changes that impact or have the potential to impact on service delivery. 
+
+The objectives of the CAB include:
+Assess and approve planned high risk and high impact changes scheduled for the next 20 days;
+Ensure that change scheduling avoids resource issues and conflicts with other changes;
+Ensure all stakeholders are fully informed of upcoming changes, and of changes that have been implemented; and
+Review unplanned and unsuccessful changes since the last CAB.
+Note: The CAB has the authority to approve, reject, or reschedule changes. 
+
+It is the responsibility of each Change Coordinator to ensure they are represented at the CAB when that change is to be discussed.				
+On this page
+CAB
+Emergency Change Advisory Board 
+
+At a glance
+CAB meets weekly, on Wednesday at 11am
+CAB chair is the Cenitex Change Management
+ECAB is convened by the Change Manager, but can be initiated by the Incident Manager outside of business hours.
+
+For all enquiries : 
+Email: cenitex.changemanagement@cenitex.vic.gov.au or 
+Call: 03 868 88011
+
+Emergency Change Advisory Board (ECAB)
+In cases where emergency changes are required, a CAB emergency committee may be convened by the Change Manager, or the Incident Manager if outside of business hours.
+
+The ECAB:
+Reviews emergency changes to assess impact and resource requirements;
+Confirms category of change; and
+Approves implementation of emergency change in agreement with the business owner or incident manager.
+This will typically be done verbally, rather than through a formal meeting, due to the urgency and time frames involved.
+
+For more information on current emergency criteria, please refer to the latest emergency change document (ppt; 84Kb).
+
+Password management
+icon: password Passwords are important because they prevent unauthorised people from using your user ID to access Lotus Notes mail, calendar and other applications. They also verify your permission to access various secure areas of departmental networks. 
+
+When your user account was created, you were given a user ID and several passwords to give you access to elements of your department's computer network. At all customer departments, staff are issued :
+a network password,
+a Lotus Notes password and
+an internet or http password.
+Your user ID, combined with your network password, allows you to access your department's IT network. Your Lotus Notes password allows you to access your Lotus Notes mail and calendar, once you have logged on to your network. Your internet (http) password gives you access to Notes databases through a web browser, and web applications. At former DTPLI, this password is also required for access to your Intranet and certain non-Notes web-based tools. 
+
+ 			
+Self-service password reset
+Network self-service password reset at DPC, DTF, DELWP, VO and Cenitex
+Notes self-service password reset at DELWP, DEDJTR, DPC, DTF, VICMIN, VO 
+
+How to change a password...
+Network password changes
+Notes password changes 
+
+Related information
+Access control security policy
+
+Help!
+Contact the IT Service Centre to ask to have your password reset for you
+
+Password reset 
+Customers at some departments can now reset their network and/or Notes passwords themselves.
+Customers at DPC, DTF, DELWP, VO and Cenitex can complete their network password reset online. Find out how to do a self service network password reset.
+Customers at DELWP, DEDJTR, DTF, DPC, VICMIN and Victorian Ombudsman can now complete their Notes password reset online. See the IBM Notes self service password reset page for more information.
+Password changes 
+You are not required to change your Lotus Notes or internet (http) passwords, although it is good practice to do so from time-to-time. 
+
+For security reasons, you are required to change your network password every 90 days. You will be prompted at login to select a new password as the 90-day period draws to a close, and you will have seven days to make that change.
+
+It is important that you change your password to something that you can remember, but is hard for others to guess. Passwords can consist of any combination of keyboard characters, are case-sensitive and have a minimum of 8 characters. Except for DTF network password have a minimum of 10 characters.
+
+Instructions have been prepared to guide you in changing many of your passwords yourself. 
+
+If you forget any of your passwords, you can contact the IT Service Centre and ask to have it reset for you. 
+
+Create a strong password that you can easily remember 
+Altering the passwords you currently use by adding a combination of upper and lower case letters, numbers and special characters is one step toward making them difficult for hackers. 
+
+It is important that you create a strong password that you can remember, but is hard for others to guess. Password complexity must meet Victorian Government security guidelines:
+It must contain at least one capital letter (A-Z), one lower case letter (a-z) and one numeric character (0-9)
+It must be at least 8 characters long. This is a minimum requirement only, for strong complex passwords Cenitex recommends passwords to be 10–14 characters long
+It should not have any common words such as 123, password, your birth date, your login name or your address.
+The difficulty with strong passwords is that they can be hard to remember. Here are some tips to help you set and remember a complex password
+Think of a thing, event, place or anything that is unique only to you.
+Think of a date or phrase that has meaning to you. Type the words in full without any spaces. Use a combination of upper and lower case letters and at least one number. For example: the date 25/12/2010 may become twentYfivedecembeRtwenty10
+Think of a set of questions that help you remember aspects of your password.
+Your user name and passwords are your electronic identity. Passwords play a key role in security, so:
+Never disclose your passwords to anyone – that includes family, friends and support staff.
+Do not write passwords down or store them on your computer, on your desk or on a post-it-note in your drawer.
+Destroy any notification sent to you containing passwords
+For more information on IT security, see the security management section.
+
+
+
+CBD and regional workplace support
+The Cenitex workplace support services team provides second level workplace support to all Cenitex customer departments and agencies. This support is provided both remotely and on-site, depending on the nature of the service call.
+
+VIP Support
+The VIP Support service provides a priority response for requests or incidents logged with the Service Centre to service subscribers. 
+
+Need workplace support?
+In order to ensure efficient workplace support, please raise a service request with the IT Service Centre. If your request requires second level support, our service centre staff will assign it to the workplace support services team.
+
+Workplace locations
+There are over 230 Cenitex supported sites across Victoria. Listed below are sites identified by our CBD and Metropolitan classification. Regional sites consist of all other offices and sites.
+
+
+External access - VDI and VPN
+Cenitex provides convenient, accessible and secure access to your department's applications and services via the internet from anywhere, anytime, and any computer using the external access service.
+
+The external access service provides flexibility for staff that work from home or work from outside your day to day office environment. It gives you access to departmental IT applications and services from your personal computer. When used in conjunction with a high speed internet connection, the external access service will provide similar performance levels to that of an office workstation.
+
+The external access service consists of two customer options:
+
+Virtual desktop infrastructure (VDI) 
+If you have a personal computer, an internet service provider (ISP), and a web browser, the VDI access method allows you to work off-site with most of the computer functionality you have access to from within your department. The service can be accessed from places like your home, an internet cafe, or hotel business centre. 
+
+VPN access service
+Virtual private network (VPN) access service allows you to securely connect your departmental device to the corporate network, providing a similar experience to working from the office on site. The VPN access service is automatically installed onto the device upon delivery for external access.
+
+If you are travelling overseas or somewhere without internet access, you will need to set up an ISP account prior to departure. Please discuss your requirements with the IT Service Centre.				Requesting external access
+
+On boarding support
+How to connect your Windows PC to VDI (Word; 2.2Mb)
+How to connect your tablet to VDI (Word; 4.32Mb)
+How to connect and disconnect to VPN (Word; 324Kb)
+How to setup your RSA PIN (Word; 568kb)
+Soft token install guide - iOS (Word; 3.2Mb)
+Soft token install guide - Android (Word; 1.2Mb)
+
+Quick links
+Connecting printers to the Windows 7 network 
+
+Get access
+http://workplace.vic.gov.au 
+
+
+The Citrix virtual desktop benefits
+VPN access service benefits
+Looks and feels like you standard desktop / laptop work computer.	Native desktop experience similar to working within the office
+Gives you access to your network drives and all of the data stored on them. Includes (H:), (J:) and project drives.
+
+Most profile approved applications will be available through a virtual session.	The department laptop is joined to your department's network, allowing you to move files between your network and local drives.
+
+Note: Helpful when saving locally to your supported device.
+Is fast and reliable, with high speed low latency internet connections, virtual desktop will provide similar performance to an office local area network (LAN).	Full access to the department's network servers, which allows application managers etc. to work on required servers.
+Note: VPN access is only available to supported user devices.
+
+What's new?
+Cenitex has deployed Windows 10 to remote access customers using Citrix VDI solutions. It provides users with the flexibility they desire, while keeping supported applications, desktops and data secure in the data center.
+
+What is required?	To be able to use the external access service, you will need:
+You can access the VDI service from any internet enabled access device eg. Home PC.
+Internet service provider (ISP) connection
+How much will it cost?	Please refer to the service catalogue for pricing details.
+How long will it take?	Please allow:
+3 days CBD | 4 days metro areas | 5 days regional areas
+
+Note: This is a chargeable service request and will require departmental approval. Cenitex will initiate approval on your behalf with the appropriate departmental contact, as part of our standard call handling procedure. Service targets commence upon receipt of approval.
+RSA SecureID token	An RSA SecurID token is a small security device or a soft token on your smartphone which provides you with a second authentication for access to the network from an external location. The token generates a new number every sixty seconds, which is used in conjunction with your login ID and a PIN for authentication purposes. 
+
+The defined life span of each token is four years, however if your token is lost, you can request another one through the IT Service Centre (which will attract a replacement token fee).
+
+Requesting external access service
+To request external access service for the Windows platform, please refer to your internal department process for requesting chargeable services. Contact the IT Service Centre on 1800 120 140.
+
+Remote access - FAQs
+
+Q - Is it possible for any device to access the remote access service?
+A - Yes, the remote access service is available to any device. Ensure the latest version of the Citrix client is installed on the device for the best possible experience. Support for personal devices is limited. 
+
+Q - Does this include tablet devices? (iPads, HP Slates, Play books etc...)
+A - Yes, the only requirement is a Citrix client on the device. Tablet devices may vary in terms of functionality and usability.
+
+Q - Is it possible to access the service when overseas?
+A - Yes, as long as you have access to the internet. Note: You may need to discuss your requirements with your business before heading overseas.
+
+Q - Do I always need my RSA token to login into the remote access service?
+A - Yes, your second authentication is required to access the internal network. No token means no access.
+
+Service catalogue
+Welcome to the 2019-20 service catalogue. Our service offerings focus on supporting a mobile, collaborative and secure Victorian Government. 
+
+At Cenitex, our goal is to provide shared services and technology that benefit over 35,000 Victorian public service employees. We are committed to publishing a catalogue of high-quality services with transparent pricing each financial year.
+
+How we organise our service offers
+Customer Service Catalogue outlines everything that can be purchased from Cenitex, including service packages, services or add-ons.
+Service Parts Catalogue provides pricing and service request information for each component. The parts catalogue links the service catalogue to the pricing model.
+Service Supplement outlines the service in more detail, including corporate service level agreements (SLA), delivery time, and available options. The 2019-20 Rate Card can be found in the service supplement.
+2019-20 service catalogue terms
+Service package – a collection of relevant and necessary components to provide a business need (e.g. a desktop).
+Service - a component that can be purchased individually or within a service package.
+Add-on – a service that can be purchased, once all requirements have been purchased.
+Part – a component that cannot be purchased individually.
+Contact your Account Manager for hosting and other services.
+
+WiFi
+WiFi connects people to the corporate or guest network, without the need for cumbersome cables. Taking your device around the office as you move in and out of meetings is easy when you're connected. 
+
+Department staff (with a network username and password) can connect their personal device or departmental phone/tablet to the WoVG wireless network to gain internet access. Guests and visitors will need a GuestVG account created by a guest sponsor in the portal.
+
+Department staff using a personal device or department phone/tablet
+On a personal device or department phone/tablet, you will be able to access the internet by connecting to the WoVG WiFi network. This gives you secure access to the internet only, without the need to rely on your device's data. Find out how to connect devices to WoVG WiFi.		
+
+
+Department staff using a department/agency laptop 
+Using a managed laptop, you will be able to work as though you were using your desktop computer, anywhere you connect to the WiFi network. This means you'll be able to view and respond to emails, check your calendar, work on documents and access applications and the intranet all from your laptop. It's a great solution if you're constantly in and out of meetings or work from a variety of sites. Your laptop will automatically connect to WoVG WiFi network.
+
+Information for guest sponsors 
+The Guest Sponsor portal allows you to create and manage guest internet accounts for visitors to your office. You need to be a sponsor to access the portal. If you would like to become a sponsor, please contact the IT Service Centre on 1800 020 140.
+
+GuestVG accounts have the following security restrictions which ensure that we are all complying with and supporting VAGO recommendations, secure IT policy and safe online practices;
+
+The GuestVG account needs to be created by a guest sponsor.
+Built in expiration and deletion process. GuestVG accounts will be automatically deleted seven days after the expiration (however a guest sponsor can extend the account within seven days of expiration).
+Each GuestVG account will only work on two concurrent devices. If an additional device connects to the GuestVG account, the first device will disconnect.
+Access the guest sponsor portal: https://sponsorportal.internal.vic.gov.au.
+
+For more information on using the portal, refer to How to create and manage GuestVG accounts (Word, 1.3Mb) in the new guest sponsor portal. 
+
+For instructions on how guests connect to WiFi, refer to How to connect to the GuestVG wireless network (Word, 476kb).
+
+Managed Office WiFi
+Wifi connects people to the corporate or guest network, without the need for cumbersome cables or cabling infrastructure. The Managed Office wifi service provides organic site growth, high network security, support and connections with the wider corporate network and its facilities for customers. 
+
+What's included:
+Complete inter-network management
+Constant monitoring of network efficiency and user accessibility
+Upgrading of network technology to meet changing business requirements
+Wireless access for managed, BYOD (bring your own device) and personal devices
+Fast and easy connectivity on the GuestVG network for guests, vendors and contractors.
+
+
+Site set up
+Wireless solutions consist of multiple wireless access points (WAP) and a wireless LAN controller (located locally or centrally). Site set up includes the design, installation, management and maintenance of network infrastructure between a customers' premises and the Cenitex Data Centre.
+
+Managed Office wifi provides two connection options for your staff: 
+
+WoVG wireless network for managed devices
+Full access to the corporate network, including network drives, applications and services, are available when a Cenitex managed laptop connects to the WoVG wireless network. This is an ideal solution for staff who are in and out of meetings or work from a variety of sites. Staff can connect their personal devices also to this network, using their network credentials, to provide connection to the internet only.
+
+GuestVG wireless network
+The Guest wifi network provides secure network connectivity to the internet for guests. Connect your guests, vendors and contractors devices to the internet, using this service. Access to this service is provided by a user account created by a guest sponsor.
+
+For more information on setting up Managed Office wifi at a new location, contact your Account Manager or Service Manager.
+
+
+GO Connect
+Mobilise your workforce
+
+Instant, reliable connection every time. Wherever you are, whether it’s overseas, in a regional office, farm, forest or client residence, stay connected on your managed desktop PC or notebook.
+
+GO Connect simplifies mobility by enabling easy connection back to the corporate network. All you need is a stable internet connection.
+
+Features
+Automatic integration with managed PC or notebook - all you need is a stable connection to the internet using WiFi or mobile 4G network.
+Device based second factor authentication as security is managed on the device
+Automated certificate renewal
+Cost saving solution that fits in with how you work
+Designed for current Windows 8.1 and Windows 10 managed PC or notebook
+ 
+
+
+Why GO Connect?
+
+Save Time - GO Connect is always on so you can start working as soon as your managed PC or notebook is open without the need to use a separate token.
+Seamless Security - Two factor authentication using SSL certificate and network credentials gives a seamless user experience.
+User Friendly – Customers can focus on the work they need to get done while GO Connect works silently in the background.
+Work Flexibility – Make flexible working arrangements a reality with full access to applications and business tools from any location on your managed PC or notebook.
+End to End Support – Cenitex provides a fully managed service with first and second level support.
+GO Connect is allocated on a per user basis and charged annually. Contact your Account Manager to find out more.
+
+This GO Connect brochure (pdf, 542kb) outlines these features and benefits of the new service.
+
+RequestIT guide
+Requestit is a new and convenient way to contact the IT Service Centre. It’s an interactive self-service portal to request services, report faults or issues as well as view updates on the progress of requests and faults. 
+
+Requestit is part of Cenitex’s commitment to continuous service improvement and has been designed for customers with input from customers. To assist customers to promote Requestit internally, we have a poster that you can access. This Requestit poster (pdf, 1206kb) outlines the key benefits of using Requestit, which are also detailed below.
+
+Requestit doesn't supersede internal department IT processes and staff are encouraged to speak with their internal IT team if unsure about using Requestit.
+
+Why Requestit
+It's an easy to use and accessible alternative to phoning the Service Centre.
+It has streamlined, automated processes to provide better service for our customers.
+It hosts the password reset registration, if you forget your network password.
+Access Requestit
+Open the Requestit portal by typing 'Requestit' into internet explorer or by the URL: http://requestit.internal.vic.gov.au.
+
+Tell us what you think
+Your ongoing feedback is important for us to learn what is working well and what we need to improve on. To tell us what you think, simply search ‘feedback’ within the portal and submit your feedback.		
+
+Use Requestit
+Instead of calling the IT Service Centre
+
+Register to unlock your account or reset your password
+Intuitive and easy to use online portal that populates known details, such as email and phone.
+Simple online forms use question and answer format to get the right information the first time.
+Simplified process to request a service on behalf of a colleague.
+When you need an update on your request
+Real-time tracking as requests and faults progress
+Visibility on who is approving your request
+Automated reminder emails are sent to the approver when a request hasn’t been actioned for three business days.
+For an improved approval experience
+Approval via email allows you to action an approval request away from your desk.
+See a consolidated view of finalised and in-progress approval requests.
+No manual intervention improves time from ticket creation to ticket approval, as they are automatically forwarded to the approver.
+More information
+Requestit navigation
+Requestit for requesters
+Requestit for approvers

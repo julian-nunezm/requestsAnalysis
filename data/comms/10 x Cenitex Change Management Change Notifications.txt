@@ -1,0 +1,345 @@
+10 x Cenitex Change Management Change Notifications below.
+
+
+Change Notification
+Decommissioning of Lotus Notes video conferencing database 
+Service affected:	Video conferencing
+Customer/s affected:	DELWP, DJPR
+Scheduled start:	9am 18/09/2019 
+Scheduled end: 	12pm 18/09/2019 
+Outage window:	N/A
+Site/s:	All sites
+Impact to service:	Scheduling of video conferences from Lotus Notes will no longer available
+Impact to end user:	Users will no longer be able to schedule video conferences from Lotus Notes
+Application validation:	N/A
+Customer testers:	Not required
+Change restriction: 	Refer to the restrictions insITe page.
+
+Customer briefing:	From Wednesday 18 September, the Lotus Notes video conferencing scheduling database will be decommissioned. Staff will no longer be able to book video conferencing rooms or use this database to check room calendars.  
+As all staff have migrated to Exchange, they should use Outlook to do these tasks from now on.
+Change reference number:	CRQ000000196440
+Additional information:	N/A
+
+Change Notification
+
+
+PROD weekend maintenance release: Unix security updates
+Service affected:	All production unix servers
+Customer/s affected:	GSP customers, DHHS, DJCS
+Scheduled start:	10:00 am Friday 13 September 2019 (AEST)
+Scheduled end: 	10:00 pm Saturday 14 September 2019 (AEST)
+Outage window:	During the above schedule we estimate each individual server will incur an outage of up to 30 minutes
+Site/s:	All sites
+Impact to service:	Intermittent outages of all production servers of up to 30 minutes may be experienced while patching is deployed, and servers rebooted. 
+Impact to end user:	User applications that are impacted include: 
+PROD Web based applications 
+PROD Business applications
+Application validation:	N/A
+Customer testers:	N/A
+Change restriction: 	Refer to the restrictions insITe page.
+
+Customer briefing:	N/A
+Change reference number:	CRQ000000195825 - PRD | Maintenance Weekend Patching | Unix Servers | GSP + DHHS | Outage
+CRQ000000195835 - PRD | Maintenance Weekend Patching | Unix Servers | DJCS | Outage
+Additional information:	The work will include deployment of security patches and hot fixes released by vendors throughout the year to resolve known errors.
+
+Regular maintenance is a part of Victorian Government security requirements and ensures that IT systems are stable, secure and protected.
+
+Change Notification
+ 
+ 
+Critical Problem Resolution Outage
+Service affected:	Network Connection to Burwood Data Centre (Telstra TCS and VicTrack Links to Burwood DC WAN Gateway)
+Customer/s affected:	All Customers except DHHS
+Scheduled start:	9:30 pm          Friday 13 September 2019    (AEST)
+Scheduled end: 	12:30 am    Saturday 14 September 2019    (AEST)
+Outage window:	10:30pm 13 Sept. – 12:30am 14 Sept. (2 hrs)
+Site/s:	
+All sites EXCEPT DHHS will be impacted by this outage.
+
+Impact to service:	No network connection to Burwood Data Centre via Telstra TCS links, Victrack IGSN links and Windows 10 users during the outage window.
+
+Windows 8.1 users aren’t affected.
+
+DHHS users aren’t affected.
+Impact to end user:	Network services will not be available during the outage window from normal Windows 10 desktops.
+
+Devices that can connect an external internet connection will be able to access all available resources using:
+•	GoConnect
+•	Citrix WorkPlace
+•	Cloud based services such as Office365, Azure, AWS, etc.
+Application validation:	We will be testing applications and services post the upgrade to confirm service availability.
+Customer testers:	Not required–testing will be conducted post the change by Cenitex.
+Change restriction: 	Refer to the restrictions insITe page.
+
+Customer briefing:	N/A
+Change reference number:	CRQ000000192329
+Additional information:	A work around for the outage is to use GoConnect or Citrix via an external internet connection to access services in the Burwood Data Centre.
+
+An external internet connection will also provide access to cloud based services.
+
+This change is to resolve the following critical problems:
+•	PBI000000052550:  Multiple Depts – Burwood WAN router running high memory
+•	PBI000000055950:  Multiple Depts – Primary Data Centre power outage (Sinefa offline)
+ 
+Our vendors Telstra and Cisco are engaged and will provide support during the change.
+Desktop update deployment
+
+
+PROD | Windows 8 Standard Workplace Maintenance Release (SWMR) 028
+Service affected:	Windows 8 machines  
+Customer/s affected:	All DJCS Customers with Windows 8 
+Deployment start:
+(opt-in avail.)	6:30 pm Thursday 5 September 2019 AEST
+Deployment end:	6:30 pm Thursday 10 October 2019 AEDT
+Outage window:	N/A
+Site/s:	All sites with Windows 8 machines
+Impact to service:	Third Party security patches and hot fixes are released regularly by software vendors to improve their products and resolve known errors. 
+These standard workplace maintenance releases (SWMR) are deployed to our desktop fleet as part of the maintenance schedule.
+Impact to end user:	Starting from Thursday, 5 September 2019, the latest desktop software upgrade will be deployed to your computer as part of the regular workplace maintenance.
+
+You will receive a pop-up notification the day the upgrade is assigned as mandatory to your computer.
+What you need to do:
+When you receive the prompt telling you the Windows 8 Maintenance Release is available please:
+•	Click OK.
+•	Restart your machine when you leave that evening (remove any USBs or external storage devices).
+•	Leave it in the CTRL + ALT + DEL screen but do not log in.
+The upgrade will occur overnight.
+
+If you miss the initial notification, you will receive a second pop-up message the next day.
+ 
+
+You can drag this aside, and at a convenient time:
+•	Save your work, close your applications and remove any USBs or external storage devices.
+•	Click Start Upgrade.
+The upgrade will begin and for the next 30 minutes you will be unable to use your computer.  
+Your computer may need to restart. Please do not use your computer during this time.
+
+Help!
+For assistance installing the upgrade, please contact the IT Service Centre on 1800 020 140.
+Thank you for your ongoing support as we work together to improve your IT experience.
+
+Application validation:	N/A
+Customer testers:	SWMR 028 has been piloted successfully to customer nominated pilot users
+Change restriction: 	Refer to the restrictions insITe page.
+
+Customer briefing:	N/A
+Change reference number:	CRQ000000187843
+Additional information:	Tier 1-3 Components Upgraded/Changed:
+
+Component	Version
+Adobe Acrobat Reader DC	2019.012.20034
+Citrix Receiver	14.9.7000
+	
+
+FYI Vendor Change Notification
+
+
+Burwood Data Centre UPS Maintenance
+Service affected: 	Nil
+Customer/s affected:	All departments
+Scheduled start:	6:00 pm     Sunday     8 September 2019
+Scheduled end: 	6:00 am     Thursday 12 September 2019
+Outage window:	No outage
+Impact to service:	No service impact
+Change reference no.	CRQ191868
+Additional information:	Our data centre vendor, DXC, is reconfiguring the dual-source supply of power at the Burwood data centre to ensure each feed is from a different UPS.
+
+
+Change Notification
+ 
+ 
+Burwood Internal Zone Migration to SDN/ACI Platform
+Service affected:	Network
+Customer/s affected:	All Departments
+Scheduled start:	5:00 AM     Saturday 21 September 2019 (AEST)
+Scheduled end: 	11.59 PM     Sunday 22 September 2019 (AEST)
+Outage window:	17 hours (during the above change schedule)
+Site/s:	Burwood Data Centre
+Impact to service:	The Burwood network and all services going in and out of the Burwood data centre will be unavailable (or intermittently unavailable) during the above 
+17-hour outage window.
+ 
+Internet, Office 365, and Outlook services will be available and unaffected from external networks. However, there may be minor interruptions experienced when accessing these services from corporate networks.
+Impact to end-user:	All applications/services dependent on or located within the Burwood data centres will be unavailable during the 17-hour outage window.
+Internet, Office 365, and Outlook services will be available and unaffected from external networks. However, there may be minor interruptions experienced when accessing these services from corporate networks.
+Application validation:	All critical apps will be tested by both Cenitex and customer testers
+Customer testers:	Customers requested to nominate testers by Tuesday 17 September 2019.
+Customer testing will be available after approx. 03:00 AM Sunday 22 September. 
+Change restriction: 	Refer to the restrictions insITe page.
+
+Customer briefing:	High-level briefings on the private zone migrations were held with customers in May-Aug 2019. Detailed briefings on this change will be held with individual customers.  
+Change reference number:	CRQ000000183374
+Additional information:	The Power point slide pack will follow shortly
+
+Change Notification
+
+
+ADFS failover from Burwood to Ballarat
+Service affected:	System Authentication Interruption 
+Customer/s affected:	All customers
+Scheduled start:	6:00 pm    Friday 16 August 2019 (AEST)
+Scheduled end: 	7:00pm     Friday 16 August 2019 (AEST)
+Outage window:	30 mins
+Site/s:	All sites
+Impact to service:	There will be a potential service outage of up to 30 minutes for users who attempt to use the below applications during the change schedule.
+
+If you have an urgent need to use one of these applications, please login to the application prior to the change start time so your session will remain authenticated during the outage window.
+
+All customers:
+•	Office 365
+•	Amazon Web Services
+
+CPV — NIMS Prod, NIMS test, 
+
+CTX —Apptio Prod, Remedy Prod, Skillsbase Prod, Slido, Splunk, Zscaler, Zcaler Admin
+
+DEDJTR — Cognology, CPV Prod, CPV Dev, CPV UAT, MySproingDay Prod, SEFS Prod, Tangoe
+
+DELWP — Oracle Dev, SuccessFactors Prod, SuccessFactors Test, Oracle HCM test, Oracle HCM UAT
+
+DHHS — Qlik Sense Prod, VANguard_FAS Prod, VANguard_FAS test, Riskcloud UAT
+
+DJCS — Camms Prod, Zycus Prod, Zycus Dev
+
+DPC — Innovation Dev, Innovation Prod, Freshservice Prod, Intranet Prod, Intranet UAT, SuccessFactors Prod, SuccessFactors Dev
+
+DTF — Oracle Dev, Servicenow Prod
+
+MTIP — Teambinder Prod
+
+PROV — Okta Dev, Okta Prod, Okta test
+
+PTV — LMS Prod, LMS test, MySpringDay Dev, Qlik Prod, Qlik UAT, RMSS Prod, Zycus Prod, Zycus staging
+
+VICROADS — ADFS Prod
+
+VO — LMS Prod, LMS Staging
+Impact to end user:	Staff will not be able to access Office 365.
+Staff will not be able to use the other services listed above. Staff cannot use applications that are incorrectly pointing to the IP address of the VIP rather than the DNS name.
+Application validation:	Cenitex will validate the authentication to all the services is successfully working post change 
+Customer testers:	N/A
+Change restriction: 	Refer to the restrictions insITe page.
+
+Customer briefing:	N/A
+Change reference number:	CRQ000000192607
+Additional information:	Cenitex will fail-over the ADFS service from our Burwood data centre to our Ballarat data centre. This action is required to minimise the outage to Office 365 services during the Software-Defined Network project change on 24 August 2019.
+
+Change Notification
+
+
+PROD I Remedy Maintenance Release | July | GSP Cenitex | No Outage
+Service affected:	Remedy, Requestit, RSSO (Remedy Single Sign On)
+Customer/s affected:	All
+Scheduled start:	20/07/2019 8:00:00 AM
+Scheduled end: 	20/07/2019 2:00:00 PM
+Outage window:	No Outage
+Site/s:	All
+Impact to service:	New enhancements and issue fixes will be implemented in the system.
+Impact to end user:	CMDB clean-up and introduction of enhancements. Please refer to the Additional Information section and attachment for details.
+Application validation:	Internally by Cenitex Remedy Team
+Customer testers:	N/A
+Change restriction: 	Refer to the restrictions insITe page.
+
+Customer briefing:	N/A
+Change reference number:	CRQ000000190087
+Additional information:	REQ000000106497 : ENH: AM : CMDB Uplift : Phase 2
+•	Classes & Attributes clean up (refer to attachment for details)
+•	Archive ~800 Placeholder Business Service CIs & their relationships
+•	Archive 199 CIs in Equipment class& their relationships
+
+REQ000000108251 : ENH: CM : Cenitex Change Management Module Enhancements
+•	Restrict submission of  latent and no impact change for Cenitex only
+•	Add 'scheduled start' and 'assignee group' columns in Tasks tab
+•	Add 'Submit Date' & remove 'Target End Date' in results list of Change form 
+
+INC000003609057 : Changes to Mandatory Work Info Items
+•	Remove Backout Plan
+•	Remove Test Plan
+•	Under Install Plan work detail replace "Implementation Plan_" with "Attach completed Change Plan"
+
+INC000003802424 : Remedy Request : Vulnerability Scan
+•	Upgrade Tomcat to v8 on RSSO servers
+•	Upgrade Tomcat to v8 on Mid-Tier servers
+
+INC000003831223 : Remedy Request : Cancel aged EPA Support tickets older than May 2019
+INC000003819411 : Remedy Fault : Unable to download reports
+
+Change Notification
+
+
+DEV weekend maintenance release: security update S1
+Service affected:	All development servers
+Customer/s affected:	GSP customers, DJCS, EPA
+Scheduled start:	Saturday 20 July 2019      Time:  02:00 am (AEST)
+Scheduled end: 	Sunday   21 July 2019       Time:  11:59 pm (AEST)
+Outage Window:	As above
+Site/s:	All sites
+Impact to service:	Intermittent outages of all development servers of up to 30 minutes may be experienced while patching is deployed, and servers rebooted. 
+Impact to end user:	User applications that are impacted include: 
+•             DEV Web based applications 
+•             DEV Business applications
+
+The following applications/services are not impacted: 
+
+Lotus Notes, Smartphone services including Traveller, TRIM and Citrix remote access, internet connectivity, Office 365, and all DTF applications/services due to their change restrictions.
+Application validation:	N/A
+Customer testers:	N/A
+Change restriction: 	Refer to the restrictions insITe page.
+
+Customer briefing:	N/A
+Change reference number:	CRQ000000188399 - DEV | Maintenance Weekend | Windows Security | Update S1 | GSP 
+CRQ000000188675 - DEV | Windows Server Security Update S1 | DJCS | Outage
+Additional information:	The work will include deployment of security patches and hot fixes released by Microsoft throughout the year to resolve known errors.
+
+Regular maintenance is a part of Victorian Government security requirements and ensures that IT systems are stable, secure and protected.
+
+Change Notification
+ 
+ 
+Implementation of 60 day archives on selected shared mailboxes
+Service affected:	Microsoft Outlook
+Customer/s affected:	CSV
+Scheduled start:	11 am                Tuesday 9 July 2019  (AEST)
+Scheduled end:	12 pm (noon)    Tuesday 9 July 2019  (AEST)
+Outage window:	No outage
+Site/s:	All
+Impact to service:	Nil
+Impact to end user:	Some shared mailboxes will have data older than 60 days archived to the online archive.
+As data is archived out of the shared mailboxes, the removal needs to be synced to the customers’ local machines. If the mailbox user is in the mailbox when this happens, they may experience a brief ‘locking’ of Outlook while the local copy of the shared mailbox is updated.
+Application validation:	This is the same as the current archiving service, only with a shorter archive period.  It is coming down from 365 days
+Customer testers:	Nil
+Change restriction:	Refer to the restrictions insITe page.
+
+Customer briefing:	Nil
+Change reference number:	CRQ000000188742
+Additional information:	CSV users are having issues whereby the local copies of certain shared mailboxes are taking up too much room on their local machines. This issue is particularly problematic for:
+•	users of very large shared mailboxes
+•	users of multiple shared mailboxes
+•	users who ‘hot desk’
+•	laptop users.
+ 
+We have seen that reducing the archive period of shared mailboxes to 60 days, as was the case in Lotus Notes, eliminates this issue for users.
+ 
+The archive change will occur on Tuesday 9 July and processing will occur over the following 24 hours.
+ 
+A list of the affected mailboxes is attached to this email.
+
+Change Notification
+ 
+ 
+Remote Network Asset Refresh – Replacement of site switches
+Service affected:	Network Services
+Customer/s affected:	DELWP (1 site only, see below)
+Scheduled start:	11:00 am    Tuesday 16 July 2019 (AEST)
+Scheduled end:  	01:00 pm    Tuesday 16 July 2019 (AEST)
+Outage window:	2 hours (during the above schedule)
+Site/s:	CFA Ferntree Gully site: Unit 27, 69 Acacia Rd 
+Impact to service:	The Cenitex network will not be available during the outage.
+Impact to end user:	User will not be able to use any applications or services reliant on the Cenitex network during the outage/
+ 
+Application validation:	A Cenitex Facilities Engineer will check the network access has been restored post the switch replacement
+Customer testers:	N/A
+Change restriction:	Refer to the restrictions insITe page.
+Customer briefing:	N/A
+Change reference number:	CRQ000000188067
+Additional information:	This change is due to the replacement of end-of-life Cisco switches.

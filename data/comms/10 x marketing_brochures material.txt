@@ -1,0 +1,606 @@
+10 x marketing/brochures material
+
+Desktop Factory
+Imaging
+New desktop PCs and Notebooks are imaged on
+site at the factory so vendors deliver ready-to-use
+hardware direct to staff. Eliminate the need for IT
+teams to unbox, image and rebox hardware.
+Fast deployment - HP and DELL desktop PCs and
+notebooks will arrive ready to use to the staff who
+need to use them.
+Significant time savings - Eliminates tedious and
+timely hardware imaging management by your IT
+team before being distributed to the end user.
+Streamline process - Desktop factory imaging
+is integrated with your established ordering
+procedures.
+Government ready – Vendor engagement,
+procurement and legislative requirements are built
+into the service.
+Find out more
+Contact your Account
+Manager or our
+Business Development
+Manager
+Service Offer
+This service is offered
+as a levy against the
+existing desktop PC
+and notebook fleet.
+Features
+Desktop factory
+imaging reimagines
+hardware distribution.
+This exciting new
+service dispels the
+double distribution
+of devices that
+traditionally has seen
+hardware shipped
+to a centralised CBD
+location for image
+installation.
+Desktop Factory
+Imaging demonstrates
+Cenitex’s committment
+to improving IT
+outcomes for the
+Victorian public and
+our customers.
+Desktop PCs and Notebooks
+delivered direct to users ready
+for sign in
+Why Desktop Factory Imaging?
+80 Collins Street
+Melbourne VIC 3000
+www.cenitex.vic.gov.au
+
+
+Targeted security training
+delivered directly to your staff.
+Government Office Phish (GO Phish) is an Ethical Mail Phishing
+education and training service tailored by Cenitex to suit the
+unique needs of our customers.
+Reduce the risk of reputational and fiscal harm by educating
+staff about the dangers of malicious emails and provide
+practical information on how to identify and treat them.
+GO Phish gives your staff with a safe environment to develop
+the skills necessary to become ‘human firewalls’ and keep your
+business safe.
+GO Phish
+80 Collins Street,
+Melbourne VIC 3000
+www.cenitex.vic.gov.au
+Features
+ Unlimited campaigns
+throughout subscription
+period
+ Adjust the level of
+complexity targeted based
+on user needs.
+ Select training phishing
+emails from templates or
+create your own.
+ Annual service cost is fixed
+for subscription duration.
+ Flexibile service bundles
+catered to your needs.
+Run your own campaigns
+or have Cenitex manage
+them for you, with optional
+communications support
+available for each bundle.
+Service offer
+ Basic - self managed
+account giving you control
+over your campaigns
+ Managed - Campaign
+management, reporting and
+onboarding done for you
+ Communications - tailored
+campaign support
+Find out more
+Email or call your Account
+Manager or our Business
+Development Manager.
+SECURITY
+Why GO Phish?
+97% of phishing emails contain ransomeware
+Government Ready – Vendor engagement, procurement and
+legislative requirements are built into the service.
+Increase Uptime – Make ‘human firewalls’ by improving staff
+awareness and knowledge of security threats. Reduce the
+number of security incidents and associated downtime.
+On Demand Education - Computer Based Training modules
+are delivered directly to staff when they click on imitation
+phishing links.
+End to End Support - Cenitex provides a fully managed
+service with first and second level support. Help is only a
+phone call away.
+Real Time Reporting – Tailor training to best suit the needs
+of your staff in reponse to live campaign data. View progress
+markers that matter to you with the dynamic dashboard.
+
+Real Time Threat
+Management
+Real Time Threat Management (RTTM) safeguards you against
+security threats to your information, ICT service confidentiality,
+integrity and availability. The Security Operations Centre at the
+heart of RTTM brings together expertise and tools.
+Global Collaboration - Comprehensive security intelligence
+and threat analysis summaries that review internet threat
+activity across the globe.
+Enhanced Risk Management - Effective incident
+management, incident escalation and rapid response to
+outbreaks by dedicated security engineers, using advanced
+query and analysis tools.
+Stay Informed - Threat analysis and incident response
+support during the identification, investigation, response
+and containment, rectification, restart and monitoring of
+an incident. This includes detection, triage, logging and
+escalation.
+Esay to use Reporting - See enterprise, work group and device
+levels of activity in customisable and easy to use reporting
+tool.
+Government Ready – Vendor engagement, procurement and
+legislative requirements are built into the service.
+Find out more
+Contact your Account
+Manager or our Business
+Development Manager
+Service Offer
+RTTM is tailored to the
+specific requirements of
+your environment.
+Features
+Improved security
+posture for your
+Department or Agency
+ Enhanced protection
+of information assets.
+Minimise impact on
+business operations and
+reduce risk
+ Rapid identification,
+prioritisation and
+response to policy
+breaches, cyber-security
+attacks and insider
+threats.
+24x7 event management with
+real-time expert security
+analysis keeps your environment
+ahead of evolving risks
+Why Real Time Threat Management?
+80 Collins Street
+Melbourne VIC 3000
+www.cenitex.vic.gov.au
+SECURITY
+Certifications
+ AS/NZS 27001
+ ASIO T4
+ ISO/IEC27001:2005
+ Defence Signals
+Directorate (DSD)
+certified gateway up to
+protected classification
+level and PCI DSS.
+
+
+Smart Guard
+Smart Guard is your strongest line of defence on the web.
+Now your users are protected with enterprise-level security over
+any internet connection—including locations with a dedicated
+internet connection—and on any device.
+So no matter what device your users choose to work on—
+workstations, laptops, mobiles—they are fully protected when
+accessing internet content on both corporate issued and BYO
+devices.
+By leveraging the power of the cloud, Smart Guard blocks
+malicious internet threats on all your users’ devices, providing
+you with robust security anywhere in the world.
+Work securely, where you want, when you want—on any device.
+Work smarter with Smart Guard.
+ Accessible — Can be used over any internet service including
+corporate internet only services providing direct connections
+to the internet or cloud. Available to new or existing
+customers and with any communications carrier.
+ One Solution — Protects all your corporate devices and your
+users’ personal devices over the internet: anywhere, anytime.
+ Global Protection — Provides users with always-on web
+filtering security that will follow them around the globe.
+ Mobile Security — Users’ mobile devices will benefit from
+the same level of protection and security features as your
+corporate workstations.
+Web protection for all your
+devices—wherever you are
+Why Smart Guard?
+80 Collins Street
+Melbourne VIC 3000
+www.cenitex.vic.gov.au
+Features
+ Security – Provides URL
+content filtering, firewall,
+anti-virus, file type
+control, SSL inspection
+and advanced threat
+detection.
+ Flexibility – Scales
+easily to your changing
+business requirements.
+ Cost effective – Provides
+a fully integrated
+government service
+at the same cost as
+comparable market
+offerings.
+ Governance – Meets the
+security requirements for
+Vic Gov web protection.
+Service Offer
+ Fully managed service.
+ Ongoing management
+and technical support—
+including level 1 and
+level 2.
+Find out more
+Contact your Account
+Manager or our Business
+Development Manager.
+SECURITY
+Smart Guard
+What is Smart Guard?
+Smart Guard is a cloud-based platform between your user and the internet, ensuring user
+website requests are only to permitted destinations. Smart Guard also inspects traffic to ensure
+no malicious content is delivered.
+How does Smart Guard work?
+Smart Guard applies your corporate web content policy whenever your users access the internet
+from their corporate mobile devices, ensuring protection against malicious websites.
+Can I use Smart Guard?
+Yes, the service is available to all Cenitex customers and can also be purchased by non-Cenitex
+customers as well.
+Do I need to upgrade or change anything to use Smart Guard?
+No, a Smart Guard application will be delivered to your Smart Guard users’ devices (e.g. their
+workstation or smart devices) providing access to the Smart Guard platform. The Smart Guard
+application supports Windows 7, 8.1 and 10. Apple and Android devices are also supported.
+Smart Guard users at locations with dedicated internet connections will automatically access
+the Smart Guard platform via the application.
+How much does Smart Guard cost?
+A one-off establishment fee will apply. Please speak to your Account Manager. The on-going
+price is $58 per user per annum ex. GST.
+How do I get Smart Guard?
+Your account team will raise a managed service request and prepare your department or agency
+to use Smart Guard.
+Frequently asked questions
+SECURITY
+
+VicCloud Protect
+VicCloud Protect is a purpose-built highly secure service that
+offers up to Protected level controls in Microsoft Azure.
+Part of the VicCloud suite of services, VicCloud Protect is highly
+resilient, built on a software defined network and part of our
+ongoing commitment to a secure, efficient, digital government.
+Confidently deploy solutions with trusted controls, processes
+and automation.
+ Enhanced cloud security - Protect the integrity of your
+applications and data in the cloud with active security,
+compliance monitoring, real time alerts and the option to host
+in Canberra*.
+ Increased digitisation - Transition to a digital government
+with confidence using VicCloud Protect. Reduce your reliance
+on physical infrastructure and on-premise security controls.
+ Detailed reporting - Comprehensive reporting and auditing
+with in-depth logs available on request*. VicCloud Protect
+offers auditing capability for existing workloads to increase
+your security posture.
+ Built-in redundancy - High Availability (HA) across Melbourne
+and Sydney regions.
+ Tailored service solutions – We will work with you to tailor a
+solution that meets your business needs.
+Find out more
+Contact your Cenitex
+Account Manager
+Security levels
+• Protected
+• Official DLM
+• Enhanced security
+Features
+• Complies with the
+Australian Cyber Security
+Centre (ACSC) guidelines
+up to Protected level
+information
+• Complies with the
+Office of the
+Victorian Information
+Commissioner’s (OVIC)
+Victorian Protection
+Data Security Framework
+up to Protected level
+information
+• Comprehensive cloud
+security controls
+• Access to ASD certified
+Azure services and
+platform offerings
+• Monthly environment
+reviews to ensure
+compliance
+Supporting a secure and
+resilient digital government
+Why VicCloud Protect?
+VICCLOUD
+* Additional charges may apply
+
+
+What is VicCloud Protect?
+VicCloud Protect is Cenitex’s newest security
+service within the VicCloud environment that
+enables our customers to increase the security
+posture of their applications. Developed in
+collaboration with Microsoft and oobe, VicCloud
+Protect will allow customers to consume a
+number of Azure services and platform offerings
+with enhanced security configurations.
+How secure is VicCloud Protect?
+VicCloud Protect has three enhanced platform
+security configurations:
+• Enhanced security
+• Official DLM (based on Australian Signals
+Directorate guidelines)
+• Protected (based on Australian Signals
+Directorate guidelines)
+What is the first step?
+VicCloud Protect operates on a joint responsibility
+model. Cenitex will work closely with you to ensure
+your applications and data are properly protected.
+However, it is the responsibility of customers, as
+information owners, to classify the data to ensure
+it is properly protected.
+Why does my business need
+VicCloud Protect?
+VicCloud Protect offers an impressive range
+of features.
+• Enhanced Cloud Security - Increased platform
+security for business and application data hosting.
+• Detailed Reporting - Comprehensive monthly
+reporting and auditing is available with the
+capability of providing in-depth auditing logs on
+request. Existing workloads benefit from the extra
+auditing capabilities—highlighting risks to help
+increase your security posture.
+• Governance Support - Clearly defined policies,
+controls and standards ensure that monitoring
+and compliance is clear and simple and
+customers’ configurations adhere to their
+corporate and government policies.
+• Consume with ease - We make it simple for our
+customers to consume the service and integrate
+their existing (and future) IT infrastructure.
+• Increased Digitisation - Customers can speed
+their transition to a digital government by
+reducing their physical data and on-premises
+security controls, equipment and infrastructure.
+• Built-in Redundancy - Built-in High Availability
+(HA) capabilities between our Melbourne and
+Sydney data centres.
+• Cost effective - Customers can access enhanced
+levels of security in the cloud cheaper than if they
+were to buy/develop this individually.
+VicCloud Protect, our most
+secure configuration, meets the
+Australian Signals Directorate,
+the Australian Cyber Security
+Centre (ACSC) guidelines, and
+the Victorian Protective Data
+Security Framework (VPDSF)
+controls for “Protected”
+at a platform level
+VICCLOUD
+How does VicCloud Protect work?
+Customers assess their current applications
+and identify those that require one of the three
+enhanced security configurations.
+Cenitex quickly and simply deploys individual
+workloads or subscriptions within our newly
+configured Azure security environments: Enhanced
+security, Official DLM or Protected.
+Enhanced security controls, processes and
+automations encapsulate and protect our
+customers’ cloud presence whilst maintaining the
+security and integrity of their systems and data at
+the platform level.
+What doesn’t VicCloud Protect
+cover?
+VicCloud Protect is a platform and does not cover
+customer education, procedures or processes.
+If my business has VicCloud Protect,
+will all my applications and data in
+the cloud be verified as “Protected”?
+No. Not all Microsoft Azure services have been
+certified. At the highest level, VicCloud Protect
+certifies the relevant platform configuration
+settings as adhering to the “Protected” level as
+certified by the ACSC and meeting the guidelines of
+the VPDSF controls for up to “Protected”.
+VicCloud Protect operates on a shared
+responsibility model and is one part of your overall
+security posture and practices, which also includes
+assessments of security risks and controls.
+Having a cloud platform configured for additional
+security does not automatically ensure your data
+and applications are fully protected end to end. For
+example, methods of accessing VicCloud Protect
+via unsecured mobile phones may result in a lower
+protection level for your data.
+What will work in VicCloud Protect
+and what are the pathways?
+Pathways to the VicCloud Protect platform include
+new and transitional workloads from existing
+Cenitex managed environments.
+Additional network or operating system controls
+may be required for the application to operate as
+intended. If enabling these controls goes against
+those recommended by the ASD guidelines, the
+customer will need to accept the risk or reassess
+which VicCloud Protect offering they wish to
+consume.
+What are the Service Level
+Agreements for VicCloud Protect?
+Service Level Agreements will be in line with the
+VicCloud Azure offering under the Victorian
+Government Enterprise Agreement.
+What does VicCloud Protect cost?
+The pricing model is aligned to the current VicCloud
+offering. All workloads built in Azure will benefit
+from Cenitex’s 8% discount from Microsoft that is
+passed on to customers.
+When will VicCloud Protect be
+available?
+The service is available now as a Catalogue item.
+Want to know more?
+Existing customers please contact your Cenitex
+Account Manager.
+All other enquiries, contact Andy Tran,
+Business Development Manager 0436 641 985
+or by email andy.tran@cenitex.vic.gov.au
+VICCLOUD
+
+
+As the main provider of ICT infrastructure and
+services to the Victorian Government, Cenitex is a
+key partner in helping address rapidly increasing
+cyber threats and keeping government information
+and Victorians cyber safe.
+The demand for digital services continues to
+increase as does the need to protect data in an
+increasingly complex and hostile environment.
+In response, Cenitex has developed VicCloud
+Protect, the newest addition to the VicCloud suite of
+services in the Microsoft Azure platform. Protect has
+been designed and developed with Microsoft and
+their Gold partner oobe from the ground up.
+Why Azure? Azure obtained certification in April
+2018 to Protected level – the first cloud platform
+to achieve this. oobe’s Perimeta tool extends
+the Microsoft certified capability out to include
+customer controls using a dedicated gateway hub,
+to take advantage of the full potential of the Azure
+cloud, and manages the control, policies, logging,
+monitoring and reporting required to make this a
+Protected environment.
+The VicCloud Protect service provides resilience by
+spanning the Azure Melbourne and Sydney regions
+with an option to host in Canberra.
+With Protect you can confidently deploy solutions
+knowing that controls, processes and automation
+are in place to protect the integrity of your systems
+and keep your data safe and secure in the cloud.
+Protect has been built to meet both the Australian
+Cyber Security Centre (ACSC) guidelines and the
+Victorian Protective Data Security Framework.
+Whether you are aiming to host information to a
+particular classification standard or if you just want
+to enhance specific security features, Protect has
+the capability to meet your needs.
+Protect is available at 3 tiers, Protected, Official
+Dissemination Limiting Markers (DLM) and
+Enhanced (targeting specific controls).
+Protect has in-depth logging and monitoring at
+unprecedented levels for VicGov, is constantly
+maintained to the highest of standards, and
+contains monthly environment reviews to ensure
+compliance with the security profile defined at
+establishment.
+What do I get with VicCloud Protect?
+• Network architecture that has secure, scalable
+and agile network topology
+• An adaptable policy framework aligned to ACSC
+with risk and data focused policies and ongoing
+compliance monitoring
+• A CloudAdmin model with administrative identity
+management framework that has an agile,
+scalable Role Based Access Control model and
+Multi-Factor Authentication and Conditional
+Access
+• Security logging and monitoring with policy
+integrated security logging and alerts, access for
+authorised security personnel and integration
+with SIEM
+• A full document suite operations, process,
+management and security
+• A range of support and maintenance
+Protect operates on a joint responsibility model. We
+will work closely with you to design a solution to best
+fit your specific needs and ensure your data and
+applications are properly protected.
+Protect is ready today and pricing will be available
+to our customers through the Cenitex service
+catalogue. Protect gives the Victorian Government
+a powerful weapon in the fight against serious cyber
+security threats.
+VicCloud Protect
+VICCLOUD
+
+S E RV I C E
+MANAGEMENT
+Call 1800 020 140 and dial 0
+Priority support for your IT needs
+VIP Support
+Business hours
+support
+VIP Support service
+is available from
+8am to 6pm, Monday
+to Friday, excluding
+Melbourne public
+holidays.
+Calls outside of
+standard business
+hours receive best
+effort until the next
+standard business
+day.
+When you request something new, we provide
+resolution within one business day.
+When something goes wrong or breaks, we provide
+resolution within one hour.
+If we can’t resolve your case over the phone, we will
+send a support person to your location.
+You will receive a single point of contact, to
+manage your case through to completion.
+Need more support?
+Contact VIP support and ask to speak to a
+Manager.
+To escalate further, contact your Cenitex Service
+Delivery Manager.
+
+
+Working with us
+Cenitex is a Victorian Government State Owned
+Enterprise providing shared ICT services across
+government.
+Cenitex was established in 2008 as part of the government’s vision to provide increased
+efficiencies and cost savings to government departments and agencies. As a shared service
+provider, we achieve this through reducing the duplication of resources, providing broad and indepth expertise, increasing collaboration capabilities and harnessing the power of aggregated
+buying by creating a single shared ICT service. One of key benefits of working with Cenitex is
+that we know government inside out because we are government.
+As a customer-driven organisation, we are firmly focused on continuous service improvement
+and creating and adding shared value for the departments and agencies we partner with.
+Our customer promise is simple:
+• Great service that meets your needs in a responsive, flexible and timely manner
+• Continuous innovation so you will always have the best and most up to date technology
+available to work smarter, faster, better
+• A commitment to cyber security through a highly reliable and secure technology platform
+• Value for money without compromising on high quality service delivery
+To purchase services from Cenitex, a public sector body and Cenitex enter into a Memorandum
+of Understanding (MOU) which sets out the arrangements relating to services, fees, service
+levels, governance arrangements and the respective roles and responsibilities of the parties.
+The MOU is between intra-government agencies and it is not intended to constitute a legally
+binding contractual agreement. Nonetheless, the expectation is that the parties should comply
+with the terms and the spirit of the MOU. As Cenitex is a shared services provider to many public
+sector bodies, the terms of the MOU are similar for all customers to enable Cenitex to develop
+and roll out new services across all customers in a standard and consistent manner.
+Cenitex is governed by a Board of Directors and sits in the Department of Treasury and Finance
+Portfolio reporting to the Assistant Treasurer.
