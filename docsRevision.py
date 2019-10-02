@@ -143,8 +143,8 @@ try:
     print("Total words: " + str(wordsCounter))
     print("Time spent: " + setElapsedTime(time.time() - start))
     #print("Please try printCommonWords(), printCenitexWords(), or printUncommonWords if you want to see any set of words.")
-    lookForWord('Cenitex')
+    #lookForWord('Cenitex')
     #printImportantWords()
-    printTopWords(50)
+    #printTopWords(50)
 except Exception as e2:
     print(f" - Error: {str(e2)}")
